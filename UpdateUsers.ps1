@@ -1,5 +1,6 @@
 # Author: Branden Walter
 # Creation Date: March 5th 2024
+# Updated: September 13th 2024 (Branden Walter)
 # ========================
 # Description:  Update a User in AD via the API in BambooHR directly.
 #               This code uses the singular user update function for
